@@ -1,4 +1,4 @@
-#include "something"
+#include "stdio.h"
 
 void main()
 {
