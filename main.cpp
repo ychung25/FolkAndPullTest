@@ -3,4 +3,5 @@
 void main()
 {
     printf("haha");
+    return 1;
 }
