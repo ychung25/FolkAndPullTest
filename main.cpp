@@ -3,5 +3,6 @@
 void main()
 {
     printf("haha");
+    // returning success
     return 1;
 }
